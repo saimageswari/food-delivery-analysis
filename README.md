@@ -6,6 +6,16 @@ live, formula-driven sales & operations dashboard — no hardcoded numbers.
 
 ---
 
+## 📊 Dashboard Preview
+
+### Main Dashboard
+![Dashboard Page 1](page1.png)
+
+### Analysis & Data
+![Dashboard Page 2](page2.png)
+
+---
+
 ## 📁 Project File
 
 **`Talabat_Dashboard.xlsx`** — single workbook, 3 sheets
